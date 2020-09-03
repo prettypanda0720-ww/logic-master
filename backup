@@ -1,0 +1,8 @@
+CI_ENVIRONMENT = 'development'
+version = 'latest'
+key_admin    = 'AKIA3KJKHLCDC3YNKUAQ'
+secret_admin = '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'
+shared_secret = 'i9YHVrkRZWwxlRQ1tuzVQdFmqR74JqJXqWQI9ChrpI'
+region  = 'eu-west-1'
+bucket = 'clms-storage'
+ec2_instance_id = 'i-07c67695dc656ac9a'
